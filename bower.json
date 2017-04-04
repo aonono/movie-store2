@@ -1,0 +1,21 @@
+{
+  "name": "imooc",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "aoping <1216791584@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
